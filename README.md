@@ -1,6 +1,7 @@
 # Building-a-logistic-Regression-Model
 This project involves Build a logistics regression learning model on the given dataset to determine whether the customer will churn or not.
 The language used is Python in collaboration with the numpy, pandas, matplotlib, seaborn, sklearn, pickle, imblearn and statsmodel.
+
 Approach
 
 Importing the required libraries and reading the dataset.
